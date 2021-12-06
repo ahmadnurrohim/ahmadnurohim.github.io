@@ -1,0 +1,11 @@
+.jumbotron {
+  padding: 5rem;
+  background-image: url(img/22.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 400px;
+}
+
+section {
+  padding-top: 5rem;
+}
